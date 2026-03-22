@@ -1,0 +1,80 @@
+{
+    "original_data": {
+        "Pregnancies": 10.0,
+        "Glucose": 111.0,
+        "BloodPressure": 70.0,
+        "SkinThickness": 27.0,
+        "Insulin": 0.0,
+        "BMI": 27.5,
+        "DiabetesPedigreeFunction": 0.14100000262260437,
+        "Age": 40.0
+    },
+    "valid_counterfactuals": [],
+    "invalid_suggestions": [
+        {
+            "cf": {
+                "Pregnancies": 10.0,
+                "Glucose": 122.0,
+                "BloodPressure": 70.0,
+                "SkinThickness": 27.0,
+                "Insulin": 0.0,
+                "BMI": 27.5,
+                "DiabetesPedigreeFunction": 0.667,
+                "Age": 40.0
+            },
+            "reason": "Feature 'DiabetesPedigreeFunction' is immutable. Suggestion: 0.14100000262260437 -> 0.667"
+        },
+        {
+            "cf": {
+                "Pregnancies": 10.0,
+                "Glucose": 111.0,
+                "BloodPressure": 70.0,
+                "SkinThickness": 27.0,
+                "Insulin": 227.0,
+                "BMI": 27.5,
+                "DiabetesPedigreeFunction": 0.141,
+                "Age": 40.0
+            },
+            "reason": "Feature 'DiabetesPedigreeFunction' is immutable. Suggestion: 0.14100000262260437 -> 0.141"
+        },
+        {
+            "cf": {
+                "Pregnancies": 10.0,
+                "Glucose": 111.0,
+                "BloodPressure": 70.0,
+                "SkinThickness": 27.0,
+                "Insulin": 0.0,
+                "BMI": 17.1,
+                "DiabetesPedigreeFunction": 0.141,
+                "Age": 40.0
+            },
+            "reason": "Feature 'DiabetesPedigreeFunction' is immutable. Suggestion: 0.14100000262260437 -> 0.141"
+        },
+        {
+            "cf": {
+                "Pregnancies": 10.0,
+                "Glucose": 54.0,
+                "BloodPressure": 70.0,
+                "SkinThickness": 27.0,
+                "Insulin": 0.0,
+                "BMI": 27.5,
+                "DiabetesPedigreeFunction": 0.141,
+                "Age": 40.0
+            },
+            "reason": "Feature 'DiabetesPedigreeFunction' is immutable. Suggestion: 0.14100000262260437 -> 0.141"
+        },
+        {
+            "cf": {
+                "Pregnancies": 10.0,
+                "Glucose": 111.0,
+                "BloodPressure": 84.0,
+                "SkinThickness": 74.0,
+                "Insulin": 0.0,
+                "BMI": 27.5,
+                "DiabetesPedigreeFunction": 0.141,
+                "Age": 40.0
+            },
+            "reason": "Feature 'DiabetesPedigreeFunction' is immutable. Suggestion: 0.14100000262260437 -> 0.141"
+        }
+    ]
+}

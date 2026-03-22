@@ -1,0 +1,22 @@
+[
+    {
+        "sample_id": 1,
+        "narrative": "Based on your current profile, here's what we found:\n\nWe considered some changes but they aren't realistic:\n  - Feature 'age' is immutable. Suggestion: 41 -> 56\n\nHere are actionable steps you CAN take:\n  - Change workclass from 'Private' to 'Self-emp-inc'; Change income from '1' to '0'\n  - Change hours_per_week from '40' to '68'; Change income from '1' to '0'\n\nThese suggestions respect your immutable characteristics (age, race, gender) and focus only on factors you can realistically change."
+    },
+    {
+        "sample_id": 2,
+        "narrative": "Based on your current profile, here's what we found:\n\nWe considered some changes but they aren't realistic:\n  - Feature 'age' is immutable. Suggestion: 31 -> 74\n  - Feature 'race' is immutable. Suggestion: White -> Other\n\nHere are actionable steps you CAN take:\n  - Change occupation from 'Craft-repair' to 'Prof-specialty'; Change hours_per_week from '45' to '28'; Change income from '0' to '1'\n\nThese suggestions respect your immutable characteristics (age, race, gender) and focus only on factors you can realistically change."
+    },
+    {
+        "sample_id": 3,
+        "narrative": "Based on your current profile, here's what we found:\n\nWe considered some changes but they aren't realistic:\n  - Feature 'gender' is immutable. Suggestion: Female -> Male\n  - Feature 'age' is immutable. Suggestion: 34 -> 44\n\nHere are actionable steps you CAN take:\n  - Change hours_per_week from '40' to '48'; Change income from '0' to '1'\n\nThese suggestions respect your immutable characteristics (age, race, gender) and focus only on factors you can realistically change."
+    },
+    {
+        "sample_id": 4,
+        "narrative": "Based on your current profile, here's what we found:\n\nWe considered some changes but they aren't realistic:\n  - Feature 'age' is immutable. Suggestion: 34 -> 28\n\nHere are actionable steps you CAN take:\n  - Change hours_per_week from '40' to '29'; Change income from '1' to '0'\n  - Change education from 'HS-grad' to 'Assoc-acdm'; Change marital_status from 'Separated' to 'Never-married'; Change income from '1' to '0'\n\nThese suggestions respect your immutable characteristics (age, race, gender) and focus only on factors you can realistically change."
+    },
+    {
+        "sample_id": 5,
+        "narrative": "Based on your current profile, here's what we found:\n\nWe considered some changes but they aren't realistic:\n  - Feature 'race' is immutable. Suggestion: White -> Other\n\nHere are actionable steps you CAN take:\n  - Change education from 'Some-college' to 'Doctorate'; Change hours_per_week from '40' to '50'; Change income from '0' to '1'\n  - Change education from 'Some-college' to 'Masters'; Change income from '0' to '1'\n\nThese suggestions respect your immutable characteristics (age, race, gender) and focus only on factors you can realistically change."
+    }
+]

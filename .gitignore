@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data and Results (Optional, but often excluded if large)
+results/
+output/
+plots/
+study_data/*.csv
+
+# OS
+.DS_Store
+thumbs.db

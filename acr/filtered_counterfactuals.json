@@ -1,0 +1,278 @@
+[
+    {
+        "sample_id": 1,
+        "original_data": {
+            "age": 41,
+            "workclass": "Private",
+            "education": "HS-grad",
+            "marital_status": "Married-civ-spouse",
+            "occupation": "Craft-repair",
+            "race": "Asian-Pac-Islander",
+            "gender": "Male",
+            "hours_per_week": 40,
+            "income": 1
+        },
+        "valid_counterfactuals": [
+            {
+                "age": 41,
+                "workclass": "Self-emp-inc",
+                "education": "HS-grad",
+                "marital_status": "Married-civ-spouse",
+                "occupation": "Craft-repair",
+                "race": "Asian-Pac-Islander",
+                "gender": "Male",
+                "hours_per_week": 40,
+                "income": 0
+            },
+            {
+                "age": 41,
+                "workclass": "Private",
+                "education": "HS-grad",
+                "marital_status": "Married-civ-spouse",
+                "occupation": "Craft-repair",
+                "race": "Asian-Pac-Islander",
+                "gender": "Male",
+                "hours_per_week": 68,
+                "income": 0
+            }
+        ],
+        "invalid_suggestions": [
+            {
+                "suggestion": {
+                    "age": 56,
+                    "workclass": "Private",
+                    "education": "12th",
+                    "marital_status": "Married-civ-spouse",
+                    "occupation": "Craft-repair",
+                    "race": "Asian-Pac-Islander",
+                    "gender": "Male",
+                    "hours_per_week": 40,
+                    "income": 0
+                },
+                "reason": "Feature 'age' is immutable. Suggestion: 41 -> 56"
+            }
+        ]
+    },
+    {
+        "sample_id": 2,
+        "original_data": {
+            "age": 31,
+            "workclass": "Private",
+            "education": "HS-grad",
+            "marital_status": "Married-civ-spouse",
+            "occupation": "Craft-repair",
+            "race": "White",
+            "gender": "Male",
+            "hours_per_week": 45,
+            "income": 0
+        },
+        "valid_counterfactuals": [
+            {
+                "age": 31,
+                "workclass": "Private",
+                "education": "HS-grad",
+                "marital_status": "Married-civ-spouse",
+                "occupation": "Prof-specialty",
+                "race": "White",
+                "gender": "Male",
+                "hours_per_week": 28,
+                "income": 1
+            }
+        ],
+        "invalid_suggestions": [
+            {
+                "suggestion": {
+                    "age": 74,
+                    "workclass": "Private",
+                    "education": "HS-grad",
+                    "marital_status": "Married-civ-spouse",
+                    "occupation": "Craft-repair",
+                    "race": "White",
+                    "gender": "Male",
+                    "hours_per_week": 45,
+                    "income": 1
+                },
+                "reason": "Feature 'age' is immutable. Suggestion: 31 -> 74"
+            },
+            {
+                "suggestion": {
+                    "age": 31,
+                    "workclass": "Private",
+                    "education": "Bachelors",
+                    "marital_status": "Married-civ-spouse",
+                    "occupation": "Craft-repair",
+                    "race": "Other",
+                    "gender": "Male",
+                    "hours_per_week": 45,
+                    "income": 1
+                },
+                "reason": "Feature 'race' is immutable. Suggestion: White -> Other"
+            }
+        ]
+    },
+    {
+        "sample_id": 3,
+        "original_data": {
+            "age": 34,
+            "workclass": "Local-gov",
+            "education": "Bachelors",
+            "marital_status": "Married-spouse-absent",
+            "occupation": "Prof-specialty",
+            "race": "White",
+            "gender": "Female",
+            "hours_per_week": 40,
+            "income": 0
+        },
+        "valid_counterfactuals": [
+            {
+                "age": 34,
+                "workclass": "Local-gov",
+                "education": "Bachelors",
+                "marital_status": "Married-spouse-absent",
+                "occupation": "Prof-specialty",
+                "race": "White",
+                "gender": "Female",
+                "hours_per_week": 48,
+                "income": 1
+            }
+        ],
+        "invalid_suggestions": [
+            {
+                "suggestion": {
+                    "age": 34,
+                    "workclass": "Local-gov",
+                    "education": "Prof-school",
+                    "marital_status": "Married-spouse-absent",
+                    "occupation": "Prof-specialty",
+                    "race": "White",
+                    "gender": "Male",
+                    "hours_per_week": 40,
+                    "income": 1
+                },
+                "reason": "Feature 'gender' is immutable. Suggestion: Female -> Male"
+            },
+            {
+                "suggestion": {
+                    "age": 44,
+                    "workclass": "Local-gov",
+                    "education": "Bachelors",
+                    "marital_status": "Married-civ-spouse",
+                    "occupation": "Prof-specialty",
+                    "race": "White",
+                    "gender": "Female",
+                    "hours_per_week": 40,
+                    "income": 1
+                },
+                "reason": "Feature 'age' is immutable. Suggestion: 34 -> 44"
+            }
+        ]
+    },
+    {
+        "sample_id": 4,
+        "original_data": {
+            "age": 34,
+            "workclass": "Private",
+            "education": "HS-grad",
+            "marital_status": "Separated",
+            "occupation": "Adm-clerical",
+            "race": "White",
+            "gender": "Male",
+            "hours_per_week": 40,
+            "income": 1
+        },
+        "valid_counterfactuals": [
+            {
+                "age": 34,
+                "workclass": "Private",
+                "education": "HS-grad",
+                "marital_status": "Separated",
+                "occupation": "Adm-clerical",
+                "race": "White",
+                "gender": "Male",
+                "hours_per_week": 29,
+                "income": 0
+            },
+            {
+                "age": 34,
+                "workclass": "Private",
+                "education": "Assoc-acdm",
+                "marital_status": "Never-married",
+                "occupation": "Adm-clerical",
+                "race": "White",
+                "gender": "Male",
+                "hours_per_week": 40,
+                "income": 0
+            }
+        ],
+        "invalid_suggestions": [
+            {
+                "suggestion": {
+                    "age": 28,
+                    "workclass": "Private",
+                    "education": "HS-grad",
+                    "marital_status": "Separated",
+                    "occupation": "Adm-clerical",
+                    "race": "White",
+                    "gender": "Male",
+                    "hours_per_week": 40,
+                    "income": 0
+                },
+                "reason": "Feature 'age' is immutable. Suggestion: 34 -> 28"
+            }
+        ]
+    },
+    {
+        "sample_id": 5,
+        "original_data": {
+            "age": 52,
+            "workclass": "Private",
+            "education": "Some-college",
+            "marital_status": "Divorced",
+            "occupation": "Exec-managerial",
+            "race": "White",
+            "gender": "Female",
+            "hours_per_week": 40,
+            "income": 0
+        },
+        "valid_counterfactuals": [
+            {
+                "age": 52,
+                "workclass": "Private",
+                "education": "Doctorate",
+                "marital_status": "Divorced",
+                "occupation": "Exec-managerial",
+                "race": "White",
+                "gender": "Female",
+                "hours_per_week": 50,
+                "income": 1
+            },
+            {
+                "age": 52,
+                "workclass": "Private",
+                "education": "Masters",
+                "marital_status": "Divorced",
+                "occupation": "Exec-managerial",
+                "race": "White",
+                "gender": "Female",
+                "hours_per_week": 40,
+                "income": 1
+            }
+        ],
+        "invalid_suggestions": [
+            {
+                "suggestion": {
+                    "age": 52,
+                    "workclass": "Private",
+                    "education": "Some-college",
+                    "marital_status": "Married-civ-spouse",
+                    "occupation": "Exec-managerial",
+                    "race": "Other",
+                    "gender": "Female",
+                    "hours_per_week": 40,
+                    "income": 1
+                },
+                "reason": "Feature 'race' is immutable. Suggestion: White -> Other"
+            }
+        ]
+    }
+]
