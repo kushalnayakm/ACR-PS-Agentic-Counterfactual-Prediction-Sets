@@ -1,0 +1,5392 @@
+Algorithm initialization done
+t = 0
+Updating rewards
+Data sample: n03662601_12995
+Deployed set 0
+Observed reward 0
+Pivot set 1
+Updating rewards
+Data sample: n03085013_28741
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_8263
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02125311_41798
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02791124_6368
+Deployed set 16
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02002556_139
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03376595_7959
+Deployed set 16
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n02091032_6740
+Deployed set 3
+Observed reward True
+Pivot set 3
+Updating rewards
+Data sample: n02951358_26227
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_10181
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_35260
+Deployed set 1
+Observed reward False
+Pivot set 9
+Updating rewards
+Data sample: n03796401_2543
+Deployed set 16
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02835271_2960
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02791124_2057
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_7659
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_5315
+Deployed set 5
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02123394_2461
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04560804_6469
+Deployed set 6
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04273569_4584
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_2503
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_10710
+Deployed set 0
+Observed reward 0
+Pivot set 1
+Updating rewards
+Data sample: n02791124_525
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_3247
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_25168
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02094114_7024
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03417042_1853
+Deployed set 6
+Observed reward False
+Pivot set 8
+Updating rewards
+Data sample: n02113712_6618
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03376595_7835
+Deployed set 3
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02823428_1491
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_172
+Deployed set 16
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n01601694_9470
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_10410
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04099969_4100
+Deployed set 7
+Observed reward True
+Pivot set 5
+Updating rewards
+Data sample: n03417042_1790
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_40466
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_51156
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_4685
+Deployed set 5
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02690373_10285
+Deployed set 16
+Observed reward True
+Pivot set 6
+Updating rewards
+Data sample: n02504458_7966
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04612504_10725
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_4146
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03796401_40
+Deployed set 7
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03041632_11700
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_2462
+Deployed set 1
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02123159_1008
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_13613
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123159_899
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_42472
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03662601_10528
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_3171
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02124075_15031
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04285008_6877
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_48062
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04579145_558
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02108551_26509
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_12065
+Deployed set 16
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02504458_8103
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_4210
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134084_27094
+Deployed set 4
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02690373_3468
+Deployed set 14
+Observed reward True
+Pivot set 4
+Updating rewards
+Data sample: n03041632_12748
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03983396_11715
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03796401_7104
+Deployed set 16
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02100583_3987
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02951358_6617
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123597_10
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02027492_2457
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_6309
+Deployed set 12
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02027492_20576
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04548280_1947
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_2824
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02951358_3452
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03376595_9395
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04548280_6290
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134084_20702
+Deployed set 16
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03417042_7506
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_1393
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02134084_1689
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134084_18800
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_1004
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03100240_4173
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04548280_4392
+Deployed set 0
+Observed reward 0
+Pivot set 2
+Updating rewards
+Data sample: n03983396_13193
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_3289
+Deployed set 3
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n02123045_5057
+Deployed set 12
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02092339_7356
+Deployed set 11
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123394_513
+Deployed set 3
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n03376595_14563
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_7584
+Deployed set 6
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02504458_3891
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123045_8127
+Deployed set 10
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134418_573
+Deployed set 14
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n03196217_5995
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_9517
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02097298_8119
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_6777
+Deployed set 4
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02835271_1425
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03796401_18139
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02102040_4392
+Deployed set 16
+Observed reward False
+Pivot set 5
+Updating rewards
+Data sample: n03792782_18947
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_2882
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_2471
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_15639
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_2432
+Deployed set 3
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04548280_5013
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01798484_5988
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123394_8605
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_13509
+Deployed set 8
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02504458_7472
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_971
+Deployed set 11
+Observed reward True
+Pivot set 5
+Updating rewards
+Data sample: n02504013_10341
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_3601
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02096437_1559
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02107574_4993
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_19103
+Deployed set 16
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n03041632_24277
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_7507
+Deployed set 4
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02814533_74433
+Deployed set 2
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n04111531_27
+Deployed set 1
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n03417042_1126
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_29367
+Deployed set 4
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02504458_13354
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_4015
+Deployed set 16
+Observed reward True
+Pivot set 3
+Updating rewards
+Data sample: n04285008_8880
+Deployed set 10
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_4144
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_763
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_18995
+Deployed set 11
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04505470_2389
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_16696
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134418_88
+Deployed set 5
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02835271_9862
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_42481
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_11359
+Deployed set 8
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_4997
+Deployed set 4
+Observed reward True
+Pivot set 3
+Updating rewards
+Data sample: n03792782_9354
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_4783
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02951358_34926
+Deployed set 10
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_8679
+Deployed set 10
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02037110_3267
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04579145_2046
+Deployed set 16
+Observed reward False
+Pivot set 8
+Updating rewards
+Data sample: n04111531_5756
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_441
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03796401_1791
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04591713_2043
+Deployed set 12
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01860187_38598
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01818515_7947
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_3183
+Deployed set 6
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02835271_11922
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03344393_10033
+Deployed set 7
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n04111531_2023
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123394_4666
+Deployed set 2
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02096294_12418
+Deployed set 14
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03792782_63173
+Deployed set 2
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02106662_50313
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_10723
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_6535
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_13225
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_996
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_16403
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03796401_24543
+Deployed set 7
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02124075_379
+Deployed set 10
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02951358_15730
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03937543_1358
+Deployed set 14
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02033041_17119
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04099969_1755
+Deployed set 12
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_9659
+Deployed set 9
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04273569_4772
+Deployed set 13
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02791124_16885
+Deployed set 13
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02708093_864
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_22549
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_2945
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02011460_5735
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_3698
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02028035_23375
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03796401_8100
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_2399
+Deployed set 16
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n02814533_5110
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02124075_4189
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02006656_11301
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123597_11271
+Deployed set 2
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03041632_77022
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04557648_9043
+Deployed set 3
+Observed reward False
+Pivot set 5
+Updating rewards
+Data sample: n02123159_3996
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_3539
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03937543_11751
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_23853
+Deployed set 5
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02835271_15617
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_1790
+Deployed set 4
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02037110_3653
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_9232
+Deployed set 16
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n04560804_11696
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04429376_8105
+Deployed set 2
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03376595_2234
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_54570
+Deployed set 3
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03417042_3171
+Deployed set 16
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n04285008_15181
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04591713_906
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_34676
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02109047_26931
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123159_7390
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02105641_8995
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02951358_31181
+Deployed set 6
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02011460_7877
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_83614
+Deployed set 3
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n04099969_5190
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_107
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04612504_6380
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_2756
+Deployed set 4
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02504458_1291
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123394_6265
+Deployed set 2
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n03662601_13715
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_21270
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134418_2367
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_1455
+Deployed set 4
+Observed reward False
+Pivot set 6
+Updating rewards
+Data sample: n02013706_6035
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03983396_971
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02025239_7274
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02791124_7824
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01622779_1961
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_11995
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_26325
+Deployed set 13
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_27960
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_15087
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_11159
+Deployed set 16
+Observed reward False
+Pivot set 4
+Updating rewards
+Data sample: n02134084_22426
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_9096
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04579145_6635
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_3375
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_5640
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03196217_3868
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02002556_17975
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01819313_3638
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_3750
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_409
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_10346
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04548280_8246
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123159_5945
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_3671
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_4583
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_22472
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_21973
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03196217_2628
+Deployed set 16
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n02133161_10324
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04579145_934
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134084_16430
+Deployed set 6
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04099969_7545
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_6955
+Deployed set 6
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03662601_8778
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02106550_6482
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04285008_7920
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02125311_12020
+Deployed set 4
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02124075_7323
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_5093
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_20194
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_2709
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03662601_32251
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_10216
+Deployed set 3
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n04111531_22466
+Deployed set 13
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_24045
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_8658
+Deployed set 16
+Observed reward False
+Pivot set 4
+Updating rewards
+Data sample: n03376595_18370
+Deployed set 11
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04111531_13479
+Deployed set 14
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_35442
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_14329
+Deployed set 16
+Observed reward True
+Pivot set 7
+Updating rewards
+Data sample: n03796401_21290
+Deployed set 12
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_1000
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04557648_310
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02504013_1844
+Deployed set 16
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02134418_1674
+Deployed set 10
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03417042_12013
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02125311_9356
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_3224
+Deployed set 10
+Observed reward False
+Pivot set 4
+Updating rewards
+Data sample: n02108000_6970
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04548280_9121
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02125311_37753
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04560804_1089
+Deployed set 12
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_14531
+Deployed set 11
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_8592
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_2946
+Deployed set 12
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n04548280_2045
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123597_11798
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_10006
+Deployed set 4
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n04099969_1126
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02951358_6089
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03796401_7179
+Deployed set 2
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04467665_17283
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_11306
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_88088
+Deployed set 16
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03937543_10101
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_55374
+Deployed set 10
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_76163
+Deployed set 16
+Observed reward False
+Pivot set 4
+Updating rewards
+Data sample: n02504458_1600
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_22020
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02093647_1494
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02107574_3775
+Deployed set 2
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03792782_20387
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_6722
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_3595
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_4462
+Deployed set 11
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n03796401_16472
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_2361
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_6823
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04099969_36200
+Deployed set 3
+Observed reward True
+Pivot set 3
+Updating rewards
+Data sample: n02504458_5507
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04557648_3729
+Deployed set 1
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n04111531_5357
+Deployed set 4
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n03041632_46091
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_955
+Deployed set 6
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02690373_12505
+Deployed set 5
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03417042_11306
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_13489
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04548280_711
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_22570
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_7842
+Deployed set 5
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02134418_1083
+Deployed set 16
+Observed reward True
+Pivot set 4
+Updating rewards
+Data sample: n03100240_3073
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_52173
+Deployed set 12
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02690373_6831
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04099969_12913
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_70988
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_22297
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02092339_3174
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123394_4542
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02100735_10276
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04273569_6707
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_22980
+Deployed set 7
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02504013_218
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_38996
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_45669
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04548280_7211
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_1785
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04560804_13665
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02098105_2343
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02823428_7570
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_35294
+Deployed set 3
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02123045_9305
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_15691
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_13317
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_5783
+Deployed set 5
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02504013_4159
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02095570_4436
+Deployed set 6
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03792782_16408
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123159_4952
+Deployed set 14
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n04285008_7096
+Deployed set 8
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_3090
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01795545_9555
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_2476
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_9613
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02951358_4999
+Deployed set 8
+Observed reward True
+Pivot set 8
+Updating rewards
+Data sample: n02089078_8273
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02504458_4207
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_12949
+Deployed set 14
+Observed reward True
+Pivot set 3
+Updating rewards
+Data sample: n03792782_65779
+Deployed set 14
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123159_6294
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02124075_7520
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_22291
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123045_7197
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03344393_7614
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_3272
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_17617
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_24073
+Deployed set 16
+Observed reward False
+Pivot set 4
+Updating rewards
+Data sample: n02504013_9466
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03662601_10716
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03937543_828
+Deployed set 8
+Observed reward True
+Pivot set 7
+Updating rewards
+Data sample: n03417042_5257
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02097658_1316
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_23830
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_2540
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03196217_8251
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_59160
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_6857
+Deployed set 5
+Observed reward True
+Pivot set 4
+Updating rewards
+Data sample: n02134418_5537
+Deployed set 3
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02123045_10717
+Deployed set 11
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02123597_334
+Deployed set 9
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02099849_1285
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02951358_35173
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03662601_27165
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_7769
+Deployed set 16
+Observed reward True
+Pivot set 6
+Updating rewards
+Data sample: n02056570_727
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03196217_886
+Deployed set 8
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03983396_21920
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03662601_10425
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123597_6333
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_716
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_10965
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_3821
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02027492_9899
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_207
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_9086
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_24722
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_3326
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03376595_3233
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04285008_11688
+Deployed set 2
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04548280_8225
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01537544_8859
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123394_271
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_12901
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_4116
+Deployed set 10
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_61792
+Deployed set 8
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n02835271_6930
+Deployed set 14
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_3261
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_7106
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04099969_9194
+Deployed set 16
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n03376595_14240
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02109525_53049
+Deployed set 4
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02504458_3906
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_1231
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123045_2719
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04548280_5068
+Deployed set 13
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_9213
+Deployed set 12
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n03792782_32341
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_56933
+Deployed set 9
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01558993_14305
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_3928
+Deployed set 6
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03344393_7018
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_1933
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_6319
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_3504
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02093256_12628
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_21963
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_18234
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02823428_11353
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02017213_4855
+Deployed set 12
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n01582220_9857
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02125311_8689
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_3804
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04548280_3125
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02125311_1469
+Deployed set 5
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n02690373_2217
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03344393_8798
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_803
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_12433
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_159
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_10742
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02099712_4066
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04557648_3679
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01820546_4631
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03796401_16603
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_57425
+Deployed set 5
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03662601_1197
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_4067
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03796401_3376
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123159_6483
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04285008_9774
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02090379_1932
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_6609
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_6817
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_21918
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134418_2372
+Deployed set 3
+Observed reward False
+Pivot set 4
+Updating rewards
+Data sample: n01829413_4190
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03196217_1423
+Deployed set 16
+Observed reward True
+Pivot set 4
+Updating rewards
+Data sample: n02708093_2180
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_1187
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04612504_2471
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03196217_3272
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03376595_2716
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_28519
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02124075_13772
+Deployed set 9
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_3298
+Deployed set 3
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n01824575_3514
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_54538
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_46422
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_29384
+Deployed set 7
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04612504_4199
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_20331
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03376595_4242
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123597_6517
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_4061
+Deployed set 3
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02835271_21558
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02124075_5848
+Deployed set 4
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02504013_1865
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_14160
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_11107
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_5374
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_39836
+Deployed set 4
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02835271_7311
+Deployed set 14
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02089867_5477
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_8379
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04273569_5593
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_24561
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03662601_326
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_11685
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02091831_6436
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_2
+Deployed set 11
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_4585
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02124075_10088
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_2086
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_7748
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_17338
+Deployed set 9
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_4597
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_8588
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02102480_12073
+Deployed set 14
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_67327
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134418_603
+Deployed set 10
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_1466
+Deployed set 14
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_4868
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123159_2663
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123597_5951
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_7613
+Deployed set 16
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n03041632_4590
+Deployed set 16
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n02504458_6898
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_4879
+Deployed set 6
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03937543_7520
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_7946
+Deployed set 9
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_4854
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_5168
+Deployed set 2
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02123159_5950
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_8818
+Deployed set 10
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02123159_6960
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_10885
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_19596
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_27484
+Deployed set 2
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03085013_25568
+Deployed set 4
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02007558_7614
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03937543_4203
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02113624_4001
+Deployed set 4
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02017213_15262
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02125311_20209
+Deployed set 12
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03983396_7378
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_2166
+Deployed set 11
+Observed reward False
+Pivot set 4
+Updating rewards
+Data sample: n03937543_3196
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_40887
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134084_3898
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_15572
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_49513
+Deployed set 13
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02823428_1493
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02951358_2416
+Deployed set 16
+Observed reward False
+Pivot set 6
+Updating rewards
+Data sample: n02690373_9401
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_2195
+Deployed set 12
+Observed reward True
+Pivot set 5
+Updating rewards
+Data sample: n01817953_1534
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_6865
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02090379_1687
+Deployed set 3
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02690373_9537
+Deployed set 8
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02125311_2064
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_52371
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03983396_10230
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134084_833
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_15179
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03796401_19777
+Deployed set 13
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_6986
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_18623
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01796340_5058
+Deployed set 13
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04548280_5845
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03376595_19102
+Deployed set 12
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_2974
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04591713_2052
+Deployed set 16
+Observed reward False
+Pivot set 4
+Updating rewards
+Data sample: n03376595_9650
+Deployed set 0
+Observed reward 0
+Pivot set 2
+Updating rewards
+Data sample: n03100240_9761
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01796340_11254
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_7863
+Deployed set 8
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_71480
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03376595_17811
+Deployed set 13
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_23668
+Deployed set 13
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02056570_1691
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_6635
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_807
+Deployed set 6
+Observed reward False
+Pivot set 6
+Updating rewards
+Data sample: n04467665_45963
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_15276
+Deployed set 13
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n01616318_3247
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_7667
+Deployed set 11
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_31133
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_294
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134418_4696
+Deployed set 16
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n03085013_23549
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_1675
+Deployed set 4
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02124075_10035
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02951358_31973
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_1475
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_3286
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04285008_5032
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03662601_22726
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02823428_14010
+Deployed set 5
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03792782_44390
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_6118
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03983396_14652
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02791124_60
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_58341
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04099969_1527
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02791124_2009
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_2908
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_5113
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_3280
+Deployed set 8
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02125311_28447
+Deployed set 6
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n04505470_4978
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134418_5464
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_8018
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02093754_5012
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_2900
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03376595_5876
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_6421
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_1551
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_6363
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_2498
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04099969_18254
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_15431
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_4043
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_29463
+Deployed set 2
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02504013_15825
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_17417
+Deployed set 13
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02690373_19134
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04591713_3894
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_4281
+Deployed set 8
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03376595_7516
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_21334
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_5177
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_23800
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02124075_6586
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_7558
+Deployed set 3
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04111531_20429
+Deployed set 5
+Observed reward True
+Pivot set 4
+Updating rewards
+Data sample: n04505470_3905
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02105505_1156
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_2232
+Deployed set 9
+Observed reward False
+Pivot set 11
+Updating rewards
+Data sample: n02823428_334
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02791124_8056
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02006656_30849
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01531178_2725
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_9322
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_5465
+Deployed set 16
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03041632_44133
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_11329
+Deployed set 14
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02132136_6459
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_14844
+Deployed set 8
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04548280_4582
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03041632_35116
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04557648_2703
+Deployed set 4
+Observed reward False
+Pivot set 4
+Updating rewards
+Data sample: n03792782_8658
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02090379_3045
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_7867
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_3615
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02002724_1654
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_20607
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02791124_11523
+Deployed set 11
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02125311_36651
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03937543_3726
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03196217_10634
+Deployed set 7
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04557648_12225
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_12651
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01558993_12968
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_10786
+Deployed set 4
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02132136_9557
+Deployed set 5
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n03085013_22489
+Deployed set 13
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03796401_9219
+Deployed set 9
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_6576
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_21211
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_4724
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02097130_2321
+Deployed set 3
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02951358_7238
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_16724
+Deployed set 4
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02814533_45692
+Deployed set 13
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04273569_5276
+Deployed set 11
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04591713_5201
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04548280_2989
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03662601_30161
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04560804_14781
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_3709
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_22381
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02009229_2294
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_2204
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134418_4657
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_2594
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_44230
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_11655
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_27497
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_45090
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02095570_2773
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03344393_5423
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03344393_732
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_4927
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_18639
+Deployed set 5
+Observed reward True
+Pivot set 3
+Updating rewards
+Data sample: n01860187_7878
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_5643
+Deployed set 3
+Observed reward False
+Pivot set 7
+Updating rewards
+Data sample: n02835271_7628
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02125311_5229
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_17587
+Deployed set 2
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02134418_2884
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_22263
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01829413_5505
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_1427
+Deployed set 2
+Observed reward False
+Pivot set 7
+Updating rewards
+Data sample: n02113023_14422
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03792782_9635
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04591713_7408
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_22563
+Deployed set 6
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02814533_26334
+Deployed set 2
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02102480_10156
+Deployed set 5
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02133161_252
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02951358_10162
+Deployed set 2
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n02690373_243
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_36280
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04612504_27571
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01592084_2422
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_45302
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n01855672_7426
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_44850
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_2075
+Deployed set 9
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03085013_7477
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_6602
+Deployed set 4
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02504458_6931
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04099969_8018
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_18845
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04285008_12438
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_7013
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_3076
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_20903
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_47234
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_17078
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_7069
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_13203
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_2200
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_23648
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_20780
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_7892
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02113624_613
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02108422_12370
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123597_4813
+Deployed set 4
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02690373_9709
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_170
+Deployed set 6
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04612504_12864
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02124075_4933
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_14841
+Deployed set 14
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_11327
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02002556_1936
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_7900
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02791124_4261
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04591713_2032
+Deployed set 14
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_593
+Deployed set 13
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_22856
+Deployed set 12
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_8417
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_44363
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02504013_4590
+Deployed set 3
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03376595_15542
+Deployed set 16
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n03662601_8406
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_511
+Deployed set 5
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02814533_3573
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01860187_210
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_10580
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02111129_1530
+Deployed set 5
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n03662601_4925
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_13391
+Deployed set 9
+Observed reward False
+Pivot set 6
+Updating rewards
+Data sample: n04111531_16583
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_5561
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02013706_1024
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04548280_541
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_176
+Deployed set 0
+Observed reward 0
+Pivot set 5
+Updating rewards
+Data sample: n02025239_2481
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_1302
+Deployed set 8
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_8537
+Deployed set 16
+Observed reward False
+Pivot set 5
+Updating rewards
+Data sample: n04099969_17404
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_16433
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_4787
+Deployed set 2
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n03792782_10929
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_5916
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_1872
+Deployed set 9
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_7721
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_4409
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_2530
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_42841
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_11921
+Deployed set 12
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_22175
+Deployed set 8
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03196217_3730
+Deployed set 9
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123394_525
+Deployed set 16
+Observed reward False
+Pivot set 8
+Updating rewards
+Data sample: n03196217_3086
+Deployed set 0
+Observed reward 0
+Pivot set 2
+Updating rewards
+Data sample: n02134084_2328
+Deployed set 11
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_14934
+Deployed set 16
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n03792782_10490
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03796401_11076
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01798484_2289
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03983396_899
+Deployed set 10
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02123597_1367
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123394_2765
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_2909
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_7144
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03937543_5703
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134084_134
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02791124_12832
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_8828
+Deployed set 4
+Observed reward True
+Pivot set 4
+Updating rewards
+Data sample: n02085936_5775
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_11797
+Deployed set 3
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04505470_3433
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04591713_6069
+Deployed set 16
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02093859_2564
+Deployed set 14
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03085013_25809
+Deployed set 2
+Observed reward False
+Pivot set 11
+Updating rewards
+Data sample: n03937543_2232
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_2408
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_35669
+Deployed set 14
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_6697
+Deployed set 9
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_1194
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_8650
+Deployed set 11
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03983396_10362
+Deployed set 13
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03662601_33002
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_37618
+Deployed set 16
+Observed reward False
+Pivot set 9
+Updating rewards
+Data sample: n01530575_3903
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_10128
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_2313
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01798484_3762
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_1128
+Deployed set 10
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n04111531_12903
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_3132
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02091134_12017
+Deployed set 14
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n04111531_9939
+Deployed set 12
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02123394_8164
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_21127
+Deployed set 16
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n04560804_154
+Deployed set 8
+Observed reward False
+Pivot set 8
+Updating rewards
+Data sample: n03085013_20877
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_3101
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02125311_26497
+Deployed set 5
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03937543_668
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02951358_9103
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_14774
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_50
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_505
+Deployed set 8
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02823428_7300
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_15960
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01843065_7445
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02102973_7074
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02814533_82674
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04099969_381
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03983396_2288
+Deployed set 8
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n04285008_14345
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_50332
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_20805
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_3503
+Deployed set 3
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04560804_4138
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02823428_4774
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_7965
+Deployed set 8
+Observed reward True
+Pivot set 4
+Updating rewards
+Data sample: n03041632_29276
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04273569_17179
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123597_1601
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02104029_7335
+Deployed set 5
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n04548280_9801
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_174
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_37513
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_10445
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04273569_3598
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_29125
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123597_12232
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_1050
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_286
+Deployed set 8
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_5814
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_1673
+Deployed set 7
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03085013_5726
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04285008_11965
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_11589
+Deployed set 7
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03417042_4664
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_1157
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_650
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03376595_9536
+Deployed set 4
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02134084_23292
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_155
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_79317
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_25022
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_120
+Deployed set 4
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04612504_8599
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01818515_8968
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04273569_5891
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_5249
+Deployed set 8
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02690373_3912
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04557648_665
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_8193
+Deployed set 14
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_4784
+Deployed set 12
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02028035_26229
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_9531
+Deployed set 9
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03344393_6849
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04285008_4834
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04099969_23293
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02791124_3117
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03196217_11290
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_5190
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_12626
+Deployed set 4
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02504458_4117
+Deployed set 3
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02504458_7302
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04612504_41457
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_29862
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04579145_7667
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03983396_17262
+Deployed set 11
+Observed reward False
+Pivot set 11
+Updating rewards
+Data sample: n03662601_8787
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_4484
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_10414
+Deployed set 8
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04579145_2276
+Deployed set 7
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03983396_8837
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_51225
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02098286_2798
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_2640
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_2937
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_7032
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_22744
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01514859_3837
+Deployed set 2
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03041632_32054
+Deployed set 8
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02124075_11068
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03662601_2048
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03041632_2058
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_22928
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01855032_5743
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_12925
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_19343
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_3861
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_1487
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_6212
+Deployed set 5
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n04467665_67081
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02951358_6637
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03196217_7867
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_4486
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02091032_7280
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_404
+Deployed set 2
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n02107908_3447
+Deployed set 11
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n04111531_4904
+Deployed set 6
+Observed reward True
+Pivot set 3
+Updating rewards
+Data sample: n02111500_4875
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_43975
+Deployed set 5
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04111531_1794
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_45714
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_5858
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03983396_1147
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_21560
+Deployed set 8
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02123045_7902
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123394_6698
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_10436
+Deployed set 12
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n04285008_8918
+Deployed set 9
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_45326
+Deployed set 11
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_26306
+Deployed set 6
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03344393_6713
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_11495
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_66876
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_7312
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01558993_4297
+Deployed set 10
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_17513
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03937543_3133
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03417042_12509
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01601694_10499
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_1974
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02111500_2733
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02113712_913
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01795545_1515
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02106662_18900
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04560804_14130
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02104365_2334
+Deployed set 3
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n03085013_16115
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_9689
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01514859_8222
+Deployed set 12
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03344393_8399
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_16104
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_6822
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03196217_6467
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_891
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_25986
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_1934
+Deployed set 4
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n04548280_3531
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02090721_5305
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_5801
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_4684
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_93
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_4446
+Deployed set 2
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02133161_489
+Deployed set 3
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03196217_4970
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02791124_4296
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_12450
+Deployed set 7
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04591713_3608
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_7113
+Deployed set 2
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n04111531_4939
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_5845
+Deployed set 6
+Observed reward True
+Pivot set 4
+Updating rewards
+Data sample: n02690373_866
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03100240_3205
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504458_4553
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_1491
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_6492
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123159_12957
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_54627
+Deployed set 7
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02104029_3121
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_4813
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_4370
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_21822
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_2856
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_1094
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_7283
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03796401_8037
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02823428_10946
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04429376_27005
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_7350
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04273569_34117
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_3957
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02094433_5663
+Deployed set 2
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n01592084_3955
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02133161_1433
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01820546_1354
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04285008_6439
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04273569_21470
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_5087
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_5576
+Deployed set 6
+Observed reward False
+Pivot set 12
+Updating rewards
+Data sample: n02708093_960
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_19694
+Deployed set 9
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02708093_1131
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_4955
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03796401_23347
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02125311_60143
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01622779_9829
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02132136_1467
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04285008_13197
+Deployed set 2
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n04560804_17045
+Deployed set 3
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04505470_26
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_20218
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_42196
+Deployed set 11
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01798484_3874
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04560804_14491
+Deployed set 16
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_18386
+Deployed set 13
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04591713_457
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02105641_14112
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n04111531_22120
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_20349
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_6023
+Deployed set 4
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03100240_3528
+Deployed set 2
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n02835271_12981
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03792782_1442
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04099969_13775
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03196217_11054
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_4024
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_2867
+Deployed set 5
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02123159_5993
+Deployed set 14
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n04111531_9026
+Deployed set 3
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02133161_5822
+Deployed set 5
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03041632_45775
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03376595_1135
+Deployed set 5
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03376595_54
+Deployed set 2
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02123045_10431
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_10374
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03196217_3358
+Deployed set 6
+Observed reward False
+Pivot set 10
+Updating rewards
+Data sample: n02708093_2650
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_20697
+Deployed set 16
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03792782_51686
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02124075_2843
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04548280_1440
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_27597
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03417042_8295
+Deployed set 8
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04099969_17056
+Deployed set 8
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02504013_21041
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134084_3306
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03983396_5394
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02105251_5812
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_7090
+Deployed set 3
+Observed reward True
+Pivot set 3
+Updating rewards
+Data sample: n02123394_1756
+Deployed set 5
+Observed reward False
+Pivot set 3
+Updating rewards
+Data sample: n04285008_7900
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02791124_6463
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02025239_3073
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02123045_9349
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02835271_10910
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02017213_17013
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03085013_2064
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134418_134
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_9611
+Deployed set 2
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03041632_47410
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03344393_4294
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03196217_7414
+Deployed set 5
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02814533_73944
+Deployed set 2
+Observed reward True
+Pivot set 2
+Updating rewards
+Data sample: n03041632_87339
+Deployed set 1
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02504013_1515
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02106030_889
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04505470_5063
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_6148
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_3063
+Deployed set 2
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03376595_6012
+Deployed set 16
+Observed reward False
+Pivot set 2
+Updating rewards
+Data sample: n02951358_8041
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_5127
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_72639
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04285008_16747
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01824575_2244
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04612504_37673
+Deployed set 9
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04467665_707
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03041632_4806
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02708093_2588
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n03344393_7175
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n01558993_6287
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_12044
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_2447
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02134418_4110
+Deployed set 3
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n03100240_6526
+Deployed set 3
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_2837
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02027492_1678
+Deployed set 1
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02690373_3139
+Deployed set 2
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n04111531_523
+Deployed set 4
+Observed reward True
+Pivot set 1
+Updating rewards
+Data sample: n02504013_4686
+Deployed set 5
+Observed reward False
+Pivot set 1
+Updating rewards
+Data sample: n02690373_7432
+Deployed set 3
+Observed reward True
+Pivot set 1

@@ -1,0 +1,24 @@
+=== ACR-PS RESULTS ===
+
+ADULT INCOME (n=32,561):
+- Model Accuracy: 79.0%
+- Conformal Coverage: 89.8%
+- Infeasible Suggestions Filtered: 42%
+- Expert-Rated Actionability: 82%
+- Hallucination Rate: <2%
+- User Comprehension: 4.6/5.0
+- Expert Success: 77.3%
+
+PIMA DIABETES (n=768):
+- Model Accuracy: 77.5%
+- Conformal Coverage: 88.2%
+- Infeasible Suggestions Filtered: 40%
+- Expert-Rated Actionability: 84%
+- Hallucination Rate: <2%
+- User Comprehension: 4.5/5.0
+- Expert Success: 77.8%
+
+COMPARISON TO BASELINES:
+- Baseline CPS: 77% expert success, 0% hallucination (no LLM)
+- CPS + Unconstrained LLM: 76% expert success, 15% hallucination
+- ACR-PS (Ours): 77% expert success, <2% hallucination ✓
