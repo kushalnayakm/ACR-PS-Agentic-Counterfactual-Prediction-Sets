@@ -126,3 +126,15 @@ If you use parts of the code/data in this repository for your own research purpo
   year={2024}
 }
 ```
+
+## 👨‍💻 My Contributions
+
+- Refactored project structure for better modularity
+- Improved explainability pipeline (FAX Agent integration)
+- Updated README with proper documentation
+- Added evaluation and result interpretation
+- Cleaned and organized codebase
+
+## 🚀 Author
+
+- Kushal Nayak
